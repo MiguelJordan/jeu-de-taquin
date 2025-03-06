@@ -1,0 +1,17 @@
+\babel@toc {french}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Présentation du projet}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Objectifs du projet}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Contexte}{3}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Description}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Règles du jeu}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Spécificités du jeu de puzzle à glissières}{5}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Conception du projet}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Analyse des besoins}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Choix des technologies}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Architecture du projet}{5}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Les packages}{6}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Partie graphique}{7}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Conclusion}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Résumé du projet}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Perspectives d'amélioration}{8}{subsection.4.2}%

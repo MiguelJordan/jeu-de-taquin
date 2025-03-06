@@ -1,0 +1,18 @@
+1 - au début il faut crée le clown :
+
+	git clone https://abdulra211@forge.info.unicaen.fr/git/abdulrazak-diallo-abogounrin-kamgang
+	
+2 - on ajoute nos documents ou nos modification dans le dossier  
+
+3 - on add les modification, exemple :
+	git add documentation/
+
+4 - on commit les modifications, 
+	git commit -m "mon message"
+
+5 - on push le tout 
+	git push --all
+	
+	
+6 - pour charger les nouveaux changement à chaque fois, il faut faire :
+	git pull
